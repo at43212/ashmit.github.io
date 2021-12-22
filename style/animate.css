@@ -98,6 +98,14 @@ Copyright (c) 2015 Daniel Eden
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
 }
+.tools{
+  width: fit-content;
+ align-items: center;
+ margin-left: 50px;
+  background-color: black;
+
+}
+
 
 @-webkit-keyframes flash {
   0%, 50%, 100% {
